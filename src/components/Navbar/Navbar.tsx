@@ -30,7 +30,7 @@ const Navbar:React.FC = () => {
                                 </ul>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link disabled" aria-disabled="true">Disabled</a>
+                                <a className="nav-link disabled" href='/' aria-disabled="true">Disabled</a>
                             </li>
                         </ul>
                         <div>
