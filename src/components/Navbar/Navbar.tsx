@@ -27,7 +27,7 @@ const Navbar: React.FC<NavProps> = ({ toogle, handleToogle }) => {
         }} >
 
 
-            {/* main nav tag for the nav bar */}
+            {/* main nav tag for the nav bar and wraps the all elements */}
             <nav className="navbar container navbar-expand-lg  p-3">
                 <div className="container-fluid">
 
